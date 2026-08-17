@@ -1,0 +1,15 @@
+EXCEPTION is a event which disturbs the flow of code we have to handle it so that our code will not stop.
+
+TYPES OF EXCEPTION :
+
+• ZERODIVISION ERROR 
+• VALUE ERROR 
+• TYPE ERROR 
+• INDEX ERROR 
+• KEY ERROR
+• FILENOTFOUND ERROR / IO ERROR 
+• INDENTATION ERROR 
+• RUNTIME ERROR 
+• LOGICAL ERROR
+• SYNTAX ERROR 
+• EOF ERROR [ END-OF-FILE ]
