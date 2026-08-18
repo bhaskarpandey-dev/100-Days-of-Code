@@ -1,0 +1,5 @@
+PYTHON : is both compiled and enterpreted language, it is also case semistive means it treats uppercase and lowecase letters differently.
+
+
+COMPILED : a compiled language is used to check the code at a time like checking of syntax error in python code.
+INTERPRETED : a interpreted language is used to run the code line by line it stops the code at first error.
