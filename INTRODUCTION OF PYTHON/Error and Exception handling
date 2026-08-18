@@ -1,1 +1,17 @@
+Exception handling is a process of responding to unwanted or unexpected events during the execution of program, using try andexcept block,to maintain the noraml flow of the code.
+
+types of exceptions :
+• BUILT IN EXCEPTIONS - these are pre defined exceptions that comes build it into python and they automatically trigger when standard error occur.
+• USER DEFINED EXCEPTIONS - these  exceptions are created manually by the programmers to handle specific error.
+
+ERRORS :
+• ZERODIVISION ERROR - Triggered when you try to divide any number by zero because computer cannot calculate an answer fot it.
+• VALUE ERROR - Tiggered when a function receives an argument that has the correct data type but an appropriate value.
+• NAME ERROR - When an undefined variable or function names or accessing list, tuple and dictionaries that does not exists.
+• INDEX ERROR - Raised when you try to access an index in a sequence like a list, tuple, string that is out of its allowed range.
+• IO ERROR / FILENOTFOUND ERROR - Raised when input/output operation or function is applied but fails because the file does not exists.
+• SYNTAX ERROR - Triggered when programmer makes mistake in the syntax of the program.
+• RUNTIME ERROR - 
+• LOGICAL ERROR
+
 
