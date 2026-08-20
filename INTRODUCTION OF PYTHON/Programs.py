@@ -8,3 +8,12 @@ try:
 except ZeroDivisionError:
     average = 0
 print(f"The average score is: {average}")
+
+# VALUE ERROR
+
+b = 10
+c = a + b
+print("SUM is", c)
+#there is value of "a" defined in this program.
+
+
